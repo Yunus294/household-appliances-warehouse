@@ -1,0 +1,17 @@
+# A demo session. Run it with:
+#   java -jar target/household-appliances-warehouse.jar --batch=examples/demo.txt
+
+find laptops ram=16 price=600;1300 sort=price
+find all brand=samsung
+find laptops name="macbook air"
+find all power=0;2500 sort=power order=desc
+list refrigerators sort=price order=desc
+cost all
+cost washing-machines energy=a
+
+# wrong requests get a clear message and the session goes on
+find laptops os=solaris
+find all price=900;100
+find ovens ram=16
+find laptops name="vivobook
+exit
