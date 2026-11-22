@@ -1,0 +1,50 @@
+# one record of each category
+category: laptop
+id: 1
+brand: ASUS
+model: Vivobook 15
+price: 650
+quantity: 10
+weight: 1.7
+os: windows
+cpu: Intel Core i5-1235U
+ram: 16
+storage: 512
+screen: 15.6
+battery: 42
+
+category: oven
+id: 11
+brand: Bosch
+model: Serie 4
+price: 550
+quantity: 8
+weight: 34
+power: 3400
+volume: 71
+temperature: 275
+
+category: refrigerator
+id: 21
+brand: Samsung
+model: RB38T675ESA
+price: 900
+quantity: 7
+weight: 70
+power: 120
+energy: c
+capacity: 385
+freezer: 114
+nofrost: yes
+
+category: washing-machine
+id: 31
+brand: Samsung
+model: WW90T534DAW
+price: 550
+quantity: 10
+weight: 68
+power: 2200
+energy: a
+load: 9
+spin: 1400

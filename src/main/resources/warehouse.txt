@@ -1,0 +1,102 @@
+# The whole stock in one file. Each record is a block of "key: value" lines;
+# blank lines separate records, "category" says what the record is.
+
+category: laptop
+id: 101
+brand: ASUS
+model: Vivobook 15 X1504
+price: 649
+quantity: 14
+weight: 1.7
+os: windows
+cpu: Intel Core i5-1235U
+ram: 16
+storage: 512
+screen: 15.6
+battery: 42
+
+category: laptop
+id: 105
+brand: Apple
+model: MacBook Air 13 M2
+price: 999
+quantity: 11
+weight: 1.24
+os: macos
+cpu: Apple M2
+ram: 8
+storage: 256
+screen: 13.6
+battery: 52
+
+category: oven
+id: 201
+brand: Bosch
+model: Serie 4 HBA534BS0
+price: 549
+quantity: 8
+weight: 34
+power: 3400
+volume: 71
+temperature: 275
+
+category: oven
+id: 205
+brand: Beko
+model: BBIM12300X
+price: 299
+quantity: 18
+weight: 28
+power: 2400
+volume: 71
+temperature: 250
+
+category: refrigerator
+id: 301
+brand: Samsung
+model: RB38T675ESA
+price: 899
+quantity: 7
+weight: 70
+power: 120
+energy: c
+capacity: 385
+freezer: 114
+nofrost: yes
+
+category: refrigerator
+id: 304
+brand: Indesit
+model: LI8 S1E S
+price: 399
+quantity: 14
+weight: 60
+power: 95
+energy: f
+capacity: 339
+freezer: 111
+nofrost: no
+
+category: washing-machine
+id: 402
+brand: Samsung
+model: WW90T534DAW
+price: 549
+quantity: 10
+weight: 68
+power: 2200
+energy: a
+load: 9
+spin: 1400
+
+category: washing-machine
+id: 406
+brand: Miele
+model: WWD120 WCS
+price: 1199
+quantity: 4
+weight: 85
+power: 2100
+energy: a
+load: 8
+spin: 1400

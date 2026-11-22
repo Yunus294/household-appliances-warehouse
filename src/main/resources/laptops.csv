@@ -1,0 +1,11 @@
+id;brand;model;price;quantity;weight;os;cpu;ram;storage;screen;battery
+101;ASUS;Vivobook 15 X1504;649;14;1.7;windows;Intel Core i5-1235U;16;512;15.6;42
+102;Lenovo;IdeaPad Slim 3 15;579;20;1.62;windows;AMD Ryzen 5 7520U;8;512;15.6;47
+103;HP;Pavilion 15;799;9;1.75;windows;Intel Core i7-1255U;16;1024;15.6;41
+104;Dell;Inspiron 14 5440;749;6;1.54;windows;Intel Core 5 120U;16;512;14;54
+105;Apple;MacBook Air 13 M2;999;11;1.24;macos;Apple M2;8;256;13.6;52
+106;Apple;MacBook Pro 14 M3;1599;4;1.55;macos;Apple M3;16;512;14.2;70
+107;Acer;Aspire 5 A515;529;17;1.8;windows;Intel Core i5-1335U;8;512;15.6;50
+108;Lenovo;ThinkPad E14 Gen 5;899;8;1.41;linux;AMD Ryzen 7 7730U;16;512;14;57
+109;Dell;XPS 13 9340;1299;3;1.19;linux;Intel Core Ultra 7 155H;16;1024;13.4;55
+110;ASUS;Chromebook Plus CX34;399;12;1.44;chrome-os;Intel Core i3-1215U;8;128;14;50

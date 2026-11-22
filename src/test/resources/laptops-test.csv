@@ -1,0 +1,5 @@
+id;brand;model;price;quantity;weight;os;cpu;ram;storage;screen;battery
+1;ASUS;Vivobook 15;650;10;1.7;windows;Intel Core i5-1235U;16;512;15.6;42
+2;Lenovo;IdeaPad Slim 3;580;20;1.6;windows;AMD Ryzen 5 7520U;8;512;15.6;47
+3;Apple;MacBook Air 13;1000;5;1.24;macos;Apple M2;8;256;13.6;52
+4;Dell;XPS 13;1300;2;1.19;linux;Intel Core Ultra 7 155H;16;1024;13.4;55

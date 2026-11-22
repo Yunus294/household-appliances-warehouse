@@ -1,0 +1,9 @@
+id;brand;model;price;quantity;weight;power;energy;capacity;freezer;nofrost
+301;Samsung;RB38T675ESA;899;7;70;120;c;385;114;yes
+302;LG;GBB72PZEFN;849;9;71;110;d;384;107;yes
+303;Bosch;Serie 4 KGN39VLEB;799;6;68;105;e;363;89;yes
+304;Indesit;LI8 S1E S;399;14;60;95;f;339;111;no
+305;Beko;RCSA366K40WN;449;10;64;100;e;343;101;no
+306;Liebherr;CNsfd 5723;1249;3;78;90;b;359;104;yes
+307;Hisense;RB440N4BCE;529;11;66;110;c;336;100;yes
+308;Haier;HTR3619FNMN;699;5;65;115;d;341;122;yes
